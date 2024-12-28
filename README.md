@@ -1,6 +1,6 @@
 # 🌟 Welcome to wflizzz's GitHub! 🌟
 
-![Header](file:///C:/Users/Alina/Desktop/%D1%88%D0%B0%D0%BF%D0%BA%D0%B0.webp)
+![Header](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fc612687613367.5dfd308bad94d.png)
 
 
 ## 👋 About Me
