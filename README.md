@@ -1,6 +1,7 @@
 # 🌟 Welcome to wflizzz's GitHub! 🌟
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=50&fontAlign=50&fontAlignY=35)
+![Header](![Uploading image.png…]()
+)
 
 ## 👋 About Me
 
