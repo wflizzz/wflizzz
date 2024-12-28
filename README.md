@@ -1,6 +1,6 @@
 # 🌟 Welcome to wflizzz's GitHub! 🌟
 
-![Header](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fc612687613367.5dfd308bad94d.png)
+![Header](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fc612687613367.5dfd308bad94d.png](https://raw.githubusercontent.com/JSH32/JSH32/master/assets/main.gif)
 
 
 ## 👋 About Me
