@@ -1,7 +1,7 @@
 # 🌟 Welcome to wflizzz's GitHub! 🌟
 
-![Header](![Uploading image.png…]()
-)
+![Header](file:///C:/Users/Alina/Desktop/%D1%88%D0%B0%D0%BF%D0%BA%D0%B0.webp)
+
 
 ## 👋 About Me
 
