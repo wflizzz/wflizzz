@@ -5,16 +5,16 @@
 
 ## 👋 About Me
 
-Hi there! I'm **[Your Name]**, a passionate developer with expertise in:
+Hi there! I'm **wflizzz**, a passionate developer with expertise in:
 
 - 🖥️ **Frontend**: HTML, CSS, JavaScript, React
 - 🔧 **Backend**: Node.js, Express, Python, Django
 - 📊 **Data**: SQL, MongoDB, Data Visualization
 - 💡 **Others**: AI, Cloud Services, Open Source Projects
 
-🌍 Based in [Your City/Country] | 🕒 Coding since [Year]  
-🎯 Currently working on: [Your Current Projects]  
-📬 How to reach me: [Your Email or Social Media Links]
+🌍 Based in Belarus | 🕒 Coding since 2023 
+🎯 Currently working on: course project's
+📬 How to reach me: wflizzzzz326@gmail.com
 
 ---
 
